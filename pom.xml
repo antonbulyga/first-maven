@@ -12,7 +12,9 @@
     <name>first-maven</name>
 
     <scm>
-       <connection>scm:git:</connection>
+       <connection>scm:git:git@github.com:antonbulyga/first-maven.git</connection>
+        <developerConnection>scm:git:git@github.com:antonbulyga/first-maven.git</developerConnection>
+        <url>https://github.com/antonbulyga/first-maven</url>
     </scm>
 
     <!-- FIXME change it to the project's website -->
