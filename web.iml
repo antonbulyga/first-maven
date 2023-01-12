@@ -12,7 +12,6 @@
         <sourceRoots>
           <root url="file://$MODULE_DIR$/web/src/main/java" />
           <root url="file://$MODULE_DIR$/web/src/main/resources" />
-          <root url="file://$MODULE_DIR$/web/target/generated-sources/annotations" />
         </sourceRoots>
       </configuration>
     </facet>
