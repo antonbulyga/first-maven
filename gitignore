@@ -3,6 +3,7 @@
 
 .DS_Store
 .idea
+./nexus-data
 
 # Log file
 *.log
