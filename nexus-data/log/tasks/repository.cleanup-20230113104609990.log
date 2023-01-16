@@ -1,9 +1,0 @@
-2023-01-13 10:46:09,991+0000 INFO  [quartz-10-thread-18]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask - Task information:
-2023-01-13 10:46:09,996+0000 INFO  [quartz-10-thread-18]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask -  ID: 73b252ca-9a0b-4cce-8b39-fb2dab227c05
-2023-01-13 10:46:09,997+0000 INFO  [quartz-10-thread-18]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask -  Type: repository.cleanup
-2023-01-13 10:46:10,058+0000 INFO  [quartz-10-thread-18]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask -  Name: Cleanup service
-2023-01-13 10:46:10,059+0000 INFO  [quartz-10-thread-18]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask -  Description: Run repository cleanup
-2023-01-13 10:46:10,153+0000 INFO  [quartz-10-thread-18]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask - Starting cleanup
-2023-01-13 10:46:10,154+0000 INFO  [quartz-10-thread-18]  *SYSTEM org.sonatype.nexus.cleanup.internal.orient.service.OrientCleanupServiceImpl - 0 components cleaned up across all repositories
-2023-01-13 10:46:10,155+0000 INFO  [quartz-10-thread-18]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask - Cleanup finished
-2023-01-13 10:46:10,156+0000 INFO  [quartz-10-thread-18]  *SYSTEM org.sonatype.nexus.cleanup.internal.task.CleanupTask - Task complete
