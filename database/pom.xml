@@ -15,4 +15,24 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>com.dmdev</groupId>
+                <artifactId>hello-plugin</artifactId>
+                <version>1.0.3-SNAPSHOT</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>Hello</goal>
+                        </goals>
+                        <phase>validate</phase>
+                    </execution>
+                </executions>
+                <!--<configuration>
+                    <massage>Message from config!!!</massage>
+                </configuration>-->
+            </plugin>
+        </plugins>
+    </build>
 </project>

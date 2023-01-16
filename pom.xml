@@ -23,6 +23,7 @@
         <module>database</module>
         <module>service</module>
         <module>web</module>
+        <module>hello-plugin</module>
     </modules>
 
 
@@ -107,6 +108,13 @@
                             <optimize>true</optimize>
                         </configuration>
 
+                    </plugin>
+                    <plugin>
+                        <artifactId>maven-war-plugin</artifactId>
+                        <version>3.2.3</version>
+                        <configuration>
+                            <failOnMissingWebXml>false</failOnMissingWebXml>
+                        </configuration>
                     </plugin>
                 </plugins>
             </build>
